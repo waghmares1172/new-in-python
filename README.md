@@ -1,2 +1,3 @@
 # new-in-python
-new python repository
+new python repository <n>
+has to b created
